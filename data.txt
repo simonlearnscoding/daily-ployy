@@ -1,8 +1,0 @@
-{
- "fixed": [],
- "rigid": [],
- "start_time": [],
- "name": [],
- "length": [],
- "ActLen": []
-}
